@@ -26,6 +26,9 @@
 
 ---
 
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/1.png)
+
+
 ### Задание 2. Отправка и получение сообщений
 
 Используя приложенные скрипты, проведите тестовую отправку и получение сообщения.
@@ -46,6 +49,8 @@ $ pip install pika
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
 ---
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/2.png)
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/3.png)
 
 ### Задание 3. Подготовка HA кластера
 
@@ -79,3 +84,20 @@ $ rabbitmqadmin get queue='hello'
 После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
 
 *Приложите скриншот результата работы второго скрипта.*
+
+
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/4.png)
+
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/5.png)
+
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/6.png)
+
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/7.png)
+
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/8.png)
+
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/9.png)
+
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/10png)
+
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/11.png)
