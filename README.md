@@ -98,6 +98,6 @@ $ rabbitmqadmin get queue='hello'
 
 ![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/9.png)
 
-![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/10png)
+![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/10.png)
 
 ![img](https://github.com/Dokukin1/RabbitMQ/blob/main/img/11.png)
